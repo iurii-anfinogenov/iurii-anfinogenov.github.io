@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>praktikum.yandex on Iurii Anfinogenov</title>
-    <link>https://example.com/tags/praktikum.yandex/</link>
+    <link>https://iurii-anfinogenov.github.io/tags/praktikum.yandex/</link>
     <description>Recent content in praktikum.yandex on Iurii Anfinogenov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/praktikum.yandex/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iurii-anfinogenov.github.io/tags/praktikum.yandex/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Поступил на курс Python-разработчик от Яндекс-Практикум</title>
-      <link>https://example.com/post/yandex_praktikum/</link>
+      <link>https://iurii-anfinogenov.github.io/post/yandex_praktikum/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/yandex_praktikum/</guid>
+      <guid>https://iurii-anfinogenov.github.io/post/yandex_praktikum/</guid>
       <description>Поступил на курс Python-разработчик от Яндекс-Практикум. О курсе - &amp;ldquo;Яндекс.Практикум&amp;rdquo; был запущен в феврале 2019 года в партнерстве со «Школа анализа данных (ШАД)» Есть вводный бесплатный курс.</description>
     </item>
     

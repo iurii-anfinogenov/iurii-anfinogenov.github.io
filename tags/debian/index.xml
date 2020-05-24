@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>debian on Iurii Anfinogenov</title>
-    <link>https://example.com/tags/debian/</link>
+    <link>https://iurii-anfinogenov.github.io/tags/debian/</link>
     <description>Recent content in debian on Iurii Anfinogenov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/debian/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iurii-anfinogenov.github.io/tags/debian/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Установка Oracl Java на Debian </title>
-      <link>https://example.com/post/install_java_debian/</link>
+      <link>https://iurii-anfinogenov.github.io/post/install_java_debian/</link>
       <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/install_java_debian/</guid>
+      <guid>https://iurii-anfinogenov.github.io/post/install_java_debian/</guid>
       <description>Установка Oracl Java на Debian Скачать Java с сайта https://www.java.com/ru/download/manual.jsp так же есть на сайте jupiter8.ru/java
 Удалить Open Java
 apt-get purge openjdk-\* icedtea-\* icedtea6-\* Удалить папку с оставшимися файлами java:</description>
