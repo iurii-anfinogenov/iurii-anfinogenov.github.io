@@ -6,35 +6,44 @@
     <description>Recent content in Tags on Iurii Anfinogenov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iurii-anfinogenov.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>debian</title>
-      <link>https://iurii-anfinogenov.github.io/tags/debian/</link>
-      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <title>Hugo</title>
+      <link>https://iurii-anfinogenov.github.io/tags/hugo/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://iurii-anfinogenov.github.io/tags/debian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>java</title>
-      <link>https://iurii-anfinogenov.github.io/tags/java/</link>
-      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://iurii-anfinogenov.github.io/tags/java/</guid>
+      <guid>https://iurii-anfinogenov.github.io/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>linux</title>
       <link>https://iurii-anfinogenov.github.io/tags/linux/</link>
-      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://iurii-anfinogenov.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>https://iurii-anfinogenov.github.io/tags/windows/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iurii-anfinogenov.github.io/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WSL</title>
+      <link>https://iurii-anfinogenov.github.io/tags/wsl/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iurii-anfinogenov.github.io/tags/wsl/</guid>
       <description></description>
     </item>
     
@@ -44,6 +53,24 @@
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://iurii-anfinogenov.github.io/tags/praktikum.yandex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>debian</title>
+      <link>https://iurii-anfinogenov.github.io/tags/debian/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iurii-anfinogenov.github.io/tags/debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://iurii-anfinogenov.github.io/tags/java/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://iurii-anfinogenov.github.io/tags/java/</guid>
       <description></description>
     </item>
     

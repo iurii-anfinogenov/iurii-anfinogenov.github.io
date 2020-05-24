@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>linux on Iurii Anfinogenov</title>
-    <link>https://iurii-anfinogenov.github.io/tags/linux/</link>
-    <description>Recent content in linux on Iurii Anfinogenov</description>
+    <title>Hugo on Iurii Anfinogenov</title>
+    <link>https://iurii-anfinogenov.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on Iurii Anfinogenov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <lastBuildDate>Sun, 12 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://iurii-anfinogenov.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://iurii-anfinogenov.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,17 +18,6 @@
       
       <guid>https://iurii-anfinogenov.github.io/post/hugo_start/</guid>
       <description>Быстрое создание статического сайта с помощью &amp;ldquo;Hugo&amp;rdquo;  Hugo - это быстрый и современный генератор статических сайтов написанный на Go.</description>
-    </item>
-    
-    <item>
-      <title>Установка Oracl Java на Debian </title>
-      <link>https://iurii-anfinogenov.github.io/post/install_java_debian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iurii-anfinogenov.github.io/post/install_java_debian/</guid>
-      <description>Установка Oracl Java на Debian Скачать Java с сайта
-Удалить Open Java
-apt-get purge openjdk-\* icedtea-\* icedtea6-\* Удалить папку с оставшимися файлами java:</description>
     </item>
     
   </channel>
