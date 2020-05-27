@@ -21,23 +21,22 @@
     </item>
     
     <item>
+      <title>Установка Oracl Java на Debian </title>
+      <link>https://iurii-anfinogenov.github.io/post/install_java_debian/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iurii-anfinogenov.github.io/post/install_java_debian/</guid>
+      <description>Установка Oracl Java на Debian Скачать Java с сайта
+Удалить Open Java</description>
+    </item>
+    
+    <item>
       <title>Поступил на курс Python-разработчик от Яндекс-Практикум</title>
       <link>https://iurii-anfinogenov.github.io/post/yandex_praktikum/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://iurii-anfinogenov.github.io/post/yandex_praktikum/</guid>
       <description>Поступил на курс Python-разработчик от Яндекс-Практикум. О курсе - &amp;ldquo;Яндекс.Практикум&amp;rdquo; был запущен в феврале 2019 года в партнерстве со «Школа анализа данных (ШАД)» Есть вводный бесплатный курс.</description>
-    </item>
-    
-    <item>
-      <title>Установка Oracl Java на Debian </title>
-      <link>https://iurii-anfinogenov.github.io/post/install_java_debian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iurii-anfinogenov.github.io/post/install_java_debian/</guid>
-      <description>Установка Oracl Java на Debian Скачать Java с сайта
-Удалить Open Java
-apt-get purge openjdk-\* icedtea-\* icedtea6-\* Удалить папку с оставшимися файлами java:</description>
     </item>
     
   </channel>

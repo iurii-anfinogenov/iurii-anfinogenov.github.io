@@ -21,6 +21,16 @@
     </item>
     
     <item>
+      <title>Установка Oracl Java на Debian </title>
+      <link>https://iurii-anfinogenov.github.io/post/install_java_debian/</link>
+      <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iurii-anfinogenov.github.io/post/install_java_debian/</guid>
+      <description>Установка Oracl Java на Debian Скачать Java с сайта
+Удалить Open Java</description>
+    </item>
+    
+    <item>
       <title>Поступил на курс Python-разработчик от Яндекс-Практикум</title>
       <link>https://iurii-anfinogenov.github.io/post/yandex_praktikum/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
@@ -37,18 +47,7 @@
       <guid>https://iurii-anfinogenov.github.io/about/</guid>
       <description>Анфиногенов Юрий Николаевич родился 25 февраля 1980
 г. Санкт-Петербург
-тел. +7 (981) 775-22-93 имейл. iurii.anfionogenov@gmail.com  Обо мне. Работаю в сфере обслуживания клиентов в IT с 2009 года.</description>
-    </item>
-    
-    <item>
-      <title>Установка Oracl Java на Debian </title>
-      <link>https://iurii-anfinogenov.github.io/post/install_java_debian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://iurii-anfinogenov.github.io/post/install_java_debian/</guid>
-      <description>Установка Oracl Java на Debian Скачать Java с сайта
-Удалить Open Java
-apt-get purge openjdk-\* icedtea-\* icedtea6-\* Удалить папку с оставшимися файлами java:</description>
+тел. +7 (981) 775-22-93 имейл.</description>
     </item>
     
   </channel>

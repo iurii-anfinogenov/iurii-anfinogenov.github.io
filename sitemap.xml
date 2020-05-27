@@ -43,6 +43,21 @@
   </url>
   
   <url>
+    <loc>https://iurii-anfinogenov.github.io/tags/debian/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iurii-anfinogenov.github.io/tags/java/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iurii-anfinogenov.github.io/post/install_java_debian/</loc>
+    <lastmod>2020-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://iurii-anfinogenov.github.io/tags/praktikum.yandex/</loc>
     <lastmod>2020-04-09T00:00:00+00:00</lastmod>
   </url>
@@ -59,18 +74,6 @@
   
   <url>
     <loc>https://iurii-anfinogenov.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://iurii-anfinogenov.github.io/tags/debian/</loc>
-  </url>
-  
-  <url>
-    <loc>https://iurii-anfinogenov.github.io/tags/java/</loc>
-  </url>
-  
-  <url>
-    <loc>https://iurii-anfinogenov.github.io/post/install_java_debian/</loc>
   </url>
   
 </urlset>
