@@ -1,2 +1,0 @@
-# iurii_anfinogenov
-blog
