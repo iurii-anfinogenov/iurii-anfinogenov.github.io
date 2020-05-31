@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru"><html lang="en" data-theme="light">
 <head>
-    <title> Юрий Анфиногенов | java </title>
+    <title> Юрий Анфиногенов | Работаем с Django в VS Code </title>
     <meta charset="utf-8"><meta name="generator" content="Hugo 0.71.0" /><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
     <meta name="description" content="Юрий Анфиногенов">
     
@@ -14,7 +14,7 @@
     <link rel="apple-touch-icon" sizes="180x180" href="https://iurii-anfinogenov.github.io/favicons/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="https://iurii-anfinogenov.github.io/favicons/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="https://iurii-anfinogenov.github.io/favicons/favicon-16x16.png">
-    <link rel="canonical" href="https://iurii-anfinogenov.github.io/tags/java/">
+    <link rel="canonical" href="https://iurii-anfinogenov.github.io/post/pylint_django/">
     
     
     <script type="text/javascript" src="https://iurii-anfinogenov.github.io/js/anatole-header.min.3b96da9aecc38aaa950c7528be99cf86019b560752f7280b45b71d53f69e1367.js" integrity="sha256-O5bamuzDiqqVDHUovpnPhgGbVgdS9ygLRbcdU/aeE2c="></script>
@@ -86,22 +86,45 @@
 
             <div class="autopagerize_page_element">
                 <div class="content">
-<div class="archive animated fadeInDown">
-   
-    <ul class="list-with-title">
+<div class="post animated fadeInDown">
+    <div class="post-content">
+
+      <div class="post-title">
+        <h3>Работаем с Django в VS Code
+        </h3>
+        
+        <div class="info">
+          <i class="fa fa-sun-o"></i><span class="date">Mon, May 11, 2020</span>
+          <i class="fa fa-clock-o"></i><span class="reading-time">1-minute read</span>
+        </div>
+        
+        </div>
+
+    <p>Настроим линтер в VSC для корректной работы с Django.<br>
+У pylint есть специальный плагин для линтинга Django: pylint-django. Плагин необходимо установить в virtualenv :</p>
+<pre><code>pip install pylint-django.  
+</code></pre>
+<p>Далее указать VS Code, подключать плагин для pylint. Делается это вот так:<br>
+Заходи в меню <em><strong>&ldquo;File&rdquo; - &ldquo;Preferences&rdquo; - &ldquo;Settings&rdquo;</strong></em>  В открывшемся окне в поиск <em><strong>&ldquo;pylint Args&rdquo;</strong></em> Ищем меню <em><strong>Python - Linting: Pylint Args</strong></em>  добавляем строку:</p>
+<pre><code> --load-plugins&quot;, &quot;pylint_django&quot;
+</code></pre>
+<p><img src="/images/pylint.png" alt="pylint_django"></p>
+
+    </div>
+    <div class="post-footer">
+      <div class="info">
+        
+        
+    <span class="separator"><a class="tag" href="/tags/wsl/">WSL</a><a class="tag" href="/tags/django/">Django</a><a class="tag" href="/tags/vs%D1%81/">VSС</a></span>
+
+      </div>
+    </div>
+
+    
            
-      <div class="listing-title">2020</div>
-      
-      <ul class="listing">
-        <div class="listing-item">
-            <div class="listing-post"><a href="https://iurii-anfinogenov.github.io/post/install_java_debian/" title="Установка Oracl Java на Debian ">Установка Oracl Java на Debian </a>
-              <div class="post-time"><span class="date">Apr 11</span></div>
-            </div>
-          </div>
-    </ul>
     
-    
-  </div>
+</div>
+
 
                 </div>
             </div>
