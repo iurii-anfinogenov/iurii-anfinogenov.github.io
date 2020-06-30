@@ -3,22 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://iurii-anfinogenov.github.io/tags/django/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://iurii-anfinogenov.github.io/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://iurii-anfinogenov.github.io/post/</loc>
-    <lastmod>2020-05-11T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iurii-anfinogenov.github.io/tags/praktikum.yandex/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://iurii-anfinogenov.github.io/tags/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iurii-anfinogenov.github.io/post/yande_praktikum_part2/</loc>
+    <lastmod>2020-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://iurii-anfinogenov.github.io/tags/django/</loc>
     <lastmod>2020-05-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -70,11 +80,6 @@
   <url>
     <loc>https://iurii-anfinogenov.github.io/post/install_java_debian/</loc>
     <lastmod>2020-04-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iurii-anfinogenov.github.io/tags/praktikum.yandex/</loc>
-    <lastmod>2020-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>

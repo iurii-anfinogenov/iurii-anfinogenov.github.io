@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Iurii Anfinogenov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iurii-anfinogenov.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>praktikum.yandex</title>
+      <link>https://iurii-anfinogenov.github.io/tags/praktikum.yandex/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iurii-anfinogenov.github.io/tags/praktikum.yandex/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Django</title>
@@ -80,15 +89,6 @@
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://iurii-anfinogenov.github.io/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>praktikum.yandex</title>
-      <link>https://iurii-anfinogenov.github.io/tags/praktikum.yandex/</link>
-      <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://iurii-anfinogenov.github.io/tags/praktikum.yandex/</guid>
       <description></description>
     </item>
     

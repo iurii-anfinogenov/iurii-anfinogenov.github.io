@@ -6,10 +6,19 @@
     <description>Recent content on Iurii Anfinogenov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 11 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iurii-anfinogenov.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>И так яндек-практикум</title>
+      <link>https://iurii-anfinogenov.github.io/post/yande_praktikum_part2/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iurii-anfinogenov.github.io/post/yande_praktikum_part2/</guid>
+      <description>Подходит к завершению первый этап обучения. После того, как я поступил на курс, времени писать особо не было.</description>
+    </item>
     
     <item>
       <title>Работаем с Django в VS Code</title>
@@ -31,17 +40,18 @@
     </item>
     
     <item>
-      <title>Установка Oracl Java на Debian </title>
+      <title>Установка Oracle Java на Debian </title>
       <link>https://iurii-anfinogenov.github.io/post/install_java_debian/</link>
       <pubDate>Sat, 11 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://iurii-anfinogenov.github.io/post/install_java_debian/</guid>
-      <description>Установка Oracl Java на Debian Скачать Java с сайта
-Удалить Open Java</description>
+      <description>Скачать Java с сайта
+Удалить Open Java
+apt-get purge openjdk-\* icedtea-\* icedtea6-\* Удалить папку с оставшимися файлами java:</description>
     </item>
     
     <item>
-      <title>Поступил на курс Python-разработчик от Яндекс-Практикум</title>
+      <title>Python-разработчик от Яндекс-Практикум</title>
       <link>https://iurii-anfinogenov.github.io/post/yandex_praktikum/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       

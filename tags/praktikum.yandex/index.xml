@@ -6,13 +6,22 @@
     <description>Recent content in praktikum.yandex on Iurii Anfinogenov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Thu, 09 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://iurii-anfinogenov.github.io/tags/praktikum.yandex/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Поступил на курс Python-разработчик от Яндекс-Практикум</title>
+      <title>И так яндек-практикум</title>
+      <link>https://iurii-anfinogenov.github.io/post/yande_praktikum_part2/</link>
+      <pubDate>Tue, 30 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iurii-anfinogenov.github.io/post/yande_praktikum_part2/</guid>
+      <description>Подходит к завершению первый этап обучения. После того, как я поступил на курс, времени писать особо не было.</description>
+    </item>
+    
+    <item>
+      <title>Python-разработчик от Яндекс-Практикум</title>
       <link>https://iurii-anfinogenov.github.io/post/yandex_praktikum/</link>
       <pubDate>Thu, 09 Apr 2020 00:00:00 +0000</pubDate>
       
