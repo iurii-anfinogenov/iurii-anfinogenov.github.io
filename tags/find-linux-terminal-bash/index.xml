@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>find, linux, terminal, bash on Iurii Anfinogenov</title>
+    <link>https://iurii-anfinogenov.github.io/tags/find-linux-terminal-bash/</link>
+    <description>Recent content in find, linux, terminal, bash on Iurii Anfinogenov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://iurii-anfinogenov.github.io/tags/find-linux-terminal-bash/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Команда find</title>
+      <link>https://iurii-anfinogenov.github.io/post/find_cmd/</link>
+      <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://iurii-anfinogenov.github.io/post/find_cmd/</guid>
+      <description>Памятка по команде find. Команда позволяет произвоидить поиск файлов по заданным условиям.</description>
+    </item>
+    
+  </channel>
+</rss>
